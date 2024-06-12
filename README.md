@@ -1,5 +1,8 @@
 # RPi MQTT Monitor for OpenMower and Home Assistant
 
+> [!CAUTION]
+> This project has been deprecated in favor of [rpimon](https://github.com/2m/rpimon).
+
 This repository contains configuration for [rpi-mqtt-monitor] to be used with an [OpenMower].
 
 [rpi-mqtt-monitor]: https://github.com/hjelev/rpi-mqtt-monitor
